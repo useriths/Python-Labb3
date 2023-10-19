@@ -1,2 +1,3 @@
 # Python-Labb3
-Python Labb3 (Shapes)
+A Python lib for shapes, such as circles, rectangles, spheres and cubes.
+One of the goals was to make it extendable, making it easy to add new shapes, such as hypercubes or N-Dimensional spheres.
